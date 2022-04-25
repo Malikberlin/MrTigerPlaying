@@ -13,11 +13,11 @@ client.on("ready", () => {
   );
   let statuses = [
    
-    `Joker Staff`,
-    `MrTiGER`,
-    `100k Member soon`,
-    `MrTiger `,
-    `Ilove ❤ `,
+    `🖤`,
+    `ᴹᴬ𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁`,
+    `شای شەترەنج و دەنگێکی ماندوو ..!`,
+    `MADO UP `,
+    `ᴹᴬ𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁 UP`,
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
